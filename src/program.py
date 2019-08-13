@@ -23,11 +23,11 @@ def print_header():
       '----- (O.o)
              (> <)
     """
-    print(Fore.WHITE + '****************  CAT BnB  ****************')
+    print(Fore.WHITE + '****************  CatCageRentApp  ****************')
     print(Fore.CYAN + cat)
-    print(Fore.WHITE + '*******************************************')
+    print(Fore.WHITE + '**************************************************')
     print()
-    print("Welcome to Cat BnB!")
+    print("Welcome to CatCageRentApp!")
     print("Why are you here?")
     print()
 
