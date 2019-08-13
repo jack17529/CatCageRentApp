@@ -1,6 +1,6 @@
-# Cat_bnb
-Cat bnb application using Python3.6 and Mongo DB.
-Cat bnb is a platform where cat owners can book or offer cages.
+# CatCageRentApp
+CatCageRentApp using Python3.6 and Mongo DB.
+CatCageRentApp is a platform where cat owners can book or offer cages.
 
 # Mongodb
 
