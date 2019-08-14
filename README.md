@@ -1,5 +1,5 @@
 # CatCageRentApp
-CatCageRentApp using Python3.6 and Mongo DB.CatCageRentApp is a platform where cat owners can book or offer cages.
+CatCageRentApp using Python3.6 and Mongo DB. CatCageRentApp is a platform where cat owners can book or offer cages.
 
 
  ![alt text](https://github.com/jack17529/CatCageRentApp/blob/master/Screenshots/CatCageRentApp.png)
